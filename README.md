@@ -1,4 +1,3 @@
-<h1 align="center">Hola 👋, Soy Jhon Jara✨</h1>
 <!-- RAINBOW LINE TOP -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
@@ -6,6 +5,18 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 
 <br>
+
+<!--<p align="center">
+  <a href="https://github.com/Aurorp1g">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Futura&color=cyan&size=25&center=true&vCenter=true&width=1100&height=40&lines=Hello%2C+I%27m+Aurorp1g+from+Shantou%2C+Guangdong+%F0%9F%97%BB;Network+Engineering+Undergraduate+👨‍🎓;Researching+Cybersecurity%2C+Cryptography%2C+Reverse+Engineering%2C+Full+Stack+Dev+👨‍💻;Interested+in+Data+Structures%2C+Algorithms%2C+Coding%2C+and+Low-Level+Computing%20🚀;Welcome+to+My+Github%20🍨;">
+  </a>
+</p>
+-->
+<p align="center">
+  <a href="https://github.com/jarcar08">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Futura&color=2ecc71&size=25&center=true&vCenter=true&width=1100&height=40&lines=Hola%2C+👋+soy+Jhon+Erick+✨;Apasionado+por+el+Desarrollo+de+Software+👨‍💻;¡Bienvenido+a+mi+perfil+de+GitHub!+👾">
+  </a>
+</p>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
