@@ -14,7 +14,7 @@
 -->
 <p align="center">
   <a href="https://github.com/jarcar08">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Futura&color=2ecc71&size=25&center=true&vCenter=true&width=1100&height=40&lines=Hola%2C+👋+soy+Jhon+Erick+✨;Apasionado+por+el+Desarrollo+de+Software+👨‍💻;¡Bienvenido+a+mi+perfil+de+GitHub!+👾">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Futura&color=2ecc71&size=25&center=true&vCenter=true&width=1100&height=40&lines=Hola+👋+soy+Jhon+Erick+✨;Apasionado+por+el+Desarrollo+de+Software+👨‍💻;¡Bienvenido+a+mi+perfil+de+GitHub!+👾">
   </a>
 </p>
 
